@@ -1,3 +1,8 @@
+!pip install streamlit
+!pip install openai
+!pip install dotenv
+!pip install altair
+
 import streamlit as st
 import openai
 import os

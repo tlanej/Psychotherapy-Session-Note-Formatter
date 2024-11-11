@@ -2,6 +2,7 @@ import streamlit as st
 import openai
 import os
 from dotenv import load_dotenv
+from altair import Chart
 
 # Load environment variables from .env file
 load_dotenv()
